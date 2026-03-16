@@ -571,6 +571,10 @@ z-index: 10;
     padding-bottom: 40px;
   }
 
+  .catalog__form{
+    margin: 0 auto;
+  }
+
   .catalog__content{
     display: block;
   }
@@ -654,7 +658,7 @@ z-index: 10;
   }
 
   .catalog__form{
-    max-width: 100%;
+    margin: 0 auto;
   }
 
   .gallery{
@@ -738,6 +742,10 @@ z-index: 10;
     margin-bottom: 20px;
   }
 
+  .catalog__form-btn{
+    width: 100%;
+  }
+
   .catalog__form-title {
       font-size: 22px;
       margin-bottom: 10px;
@@ -773,5 +781,9 @@ z-index: 10;
   
   .footer__social-link span{
     display: none;
+  }
+
+  .footer__copy{
+    margin-top: 20px;
   }
 }
